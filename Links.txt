@@ -1,0 +1,3 @@
+Youtube Series	aka.ms/vsprofilerseries
+GitHub Repo		github.com/davidfowl/AspNetCoreDiagnosticScenarios
+Documentation	https://learn.microsoft.com/en-us/visualstudio/profiling/?view=vs-2022
